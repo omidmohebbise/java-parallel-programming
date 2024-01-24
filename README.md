@@ -29,7 +29,8 @@ The counter variable is shared among both threads without any synchronization me
 This can lead to a race condition where the threads may interfere with each other's access to the counter variable,
 resulting in unpredictable or incorrect results.
 
-'''
+<pre>
+```bash
 First ThreadCounter = 87
 Second ThreadCounter = 86
-'''
+```
