@@ -4,9 +4,9 @@ Java provides robust support for concurrent programming, allowing developers to 
 
 ## Basic/Practice 01: . **Threads and Runnable Interface**
 
-- Threads represent the smallest unit of execution in Java. They can be created by extending the `Thread` class or implementing the `Runnable` interface.
+Threads represent the smallest unit of execution in Java. They can be created by extending the `Thread` class or implementing the `Runnable` interface.
   
-  Example:
+ Example:
 
   ```java
   class MyThread extends Thread {
