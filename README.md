@@ -21,6 +21,7 @@ Threads represent the smallest unit of execution in Java. They can be created by
           // Runnable logic here
       }
   }
+  ```
 
 ## Basic/Practice 02: . **Race Condition**
 
