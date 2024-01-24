@@ -1,11 +1,10 @@
-package org.omidmohebbise.parallel.basic.practice1;
+package org.omidmohebbise.parallel.miscellaneous.practice1;
 
 public class Practice1 {
 
     public static void main(String[] args) {
         long kilobyte = 1024;
         long megabyte = kilobyte*1024;
-        long gigabyte = megabyte*1024;
 
 
         Runtime runtime = Runtime.getRuntime();

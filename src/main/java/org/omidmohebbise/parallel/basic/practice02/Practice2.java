@@ -1,4 +1,4 @@
-package org.omidmohebbise.parallel.basic.practice2;
+package org.omidmohebbise.parallel.basic.practice02;
 
 class MyThread extends Thread{
     public int counter;
