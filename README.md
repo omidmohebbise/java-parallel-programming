@@ -30,8 +30,6 @@ This can lead to a race condition where the threads may interfere with each othe
 resulting in unpredictable or incorrect results.
 
 <pre>
-```
 First ThreadCounter = 87
 Second ThreadCounter = 86
-```
 </pre>
